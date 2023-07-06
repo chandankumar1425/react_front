@@ -1,0 +1,40 @@
+
+form {
+  display: flex;
+  gap: 20px;
+}
+
+.maindiv {
+  width: 70%;
+  /* border-style: dashed !important;   */
+
+}
+
+.btn {
+  width: 10rem;
+  height: 3rem;
+  color: white;
+  background-color: green;
+  border: none !important;
+  border-radius: 34px !important;
+}
+
+.ull {
+  width: 50%;
+  justify-content:space-around;
+  /* border-style: dashed !important;   */
+  margin-inline: 10px;
+  column-gap: 30px;
+}
+
+.lii {
+
+  margin-bottom: 20px
+}
+
+.one{
+  margin-top: 30px;
+}
+.midsec{
+  border: 2px solid red !;
+}
